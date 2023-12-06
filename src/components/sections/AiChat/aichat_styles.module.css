@@ -1,0 +1,5 @@
+.root {
+    @apply w-11/12 max-w-xs h-full 
+            bg-gray-50
+            right-0
+}

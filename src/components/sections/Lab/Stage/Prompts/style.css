@@ -1,0 +1,10 @@
+.stage .canvas.prompt {
+    @apply bg-green-900
+}
+.stage .canvas.prompt > .wrapper {
+}
+.stage .canvas.prompt > .wrapper section {
+    @apply p-4
+            w-full h-full
+            /* border-solid border-8 border-white */
+}
